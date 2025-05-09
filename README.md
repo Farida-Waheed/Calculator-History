@@ -112,8 +112,41 @@ This MIPS program provides:
 
 * First when we run the program
 
-  ![image](https://github.com/user-attachments/assets/ed8f3c2c-04a4-4890-b49f-cbbdd1e95f67)
+  ![image](https://github.com/user-attachments/assets/6310cbea-af24-4584-8e96-761738e3cb5f)
+* For 'Exit'
 
+  ![image](https://github.com/user-attachments/assets/337824b1-60ee-4f5f-9d8c-731fa73bd0d1)
+* For 'Use previous result'
+
+  ![image](https://github.com/user-attachments/assets/d60f0786-f4ae-49ac-9d48-6256944f3256)
+  ![image](https://github.com/user-attachments/assets/ff23bc78-954b-48ac-bdd1-18dd6d48cfd1)
+* For 'Addition'  
+
+  ![image](https://github.com/user-attachments/assets/c54bd357-f058-4a97-8881-ba265ba192ad)
+* For 'Subtraction'  
+
+  ![image](https://github.com/user-attachments/assets/07c621dc-d0ca-453f-84ce-762944383092)
+* For 'Multiplication'
+
+  ![image](https://github.com/user-attachments/assets/07cebaf9-bc5e-46b2-829e-24e61d41ec1f)
+* For 'Division'
+
+  ![image](https://github.com/user-attachments/assets/1d6345c0-22df-47c3-b693-17ade4a0f007)
+* For 'View history'
+
+  ![image](https://github.com/user-attachments/assets/554cbbaa-cdda-4d30-8b55-cbcfe62e20ec)
+* For 'Previous results'
+
+  ![image](https://github.com/user-attachments/assets/a9bf7218-9a01-4903-ae0f-0deef5901c77)
+* For 'Delete no.’ in case  “existing num” 
+  
+  ![image](https://github.com/user-attachments/assets/f9b20187-7ce9-4b16-9528-ffc7326c7743)
+* Then choose'View history'
+
+  ![image](https://github.com/user-attachments/assets/cda90ad9-7414-4dfb-ba46-e344dcf6b540)
+* For 'Delete no.’ in case “not existing num”
+
+  ![image](https://github.com/user-attachments/assets/8e944509-f21f-4f96-a26e-36328dc61b69)
 
 ---
 
