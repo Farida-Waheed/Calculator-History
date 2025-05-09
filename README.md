@@ -127,6 +127,8 @@ This MIPS program provides:
 
   ![image](https://github.com/user-attachments/assets/07c621dc-d0ca-453f-84ce-762944383092)
 * For 'Multiplication'
+
+  ![image](https://github.com/user-attachments/assets/94fccb06-969f-449c-a5f0-2040a188bf29)
 * For 'Division'
 
   ![image](https://github.com/user-attachments/assets/1d6345c0-22df-47c3-b693-17ade4a0f007)
